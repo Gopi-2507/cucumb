@@ -9,4 +9,9 @@ public class SampleGit {
 		System.out.println("emlyoees contact");
 
 	}
+	private void loe() {
+		System.out.println("employee pppoiii");
+
+	}
+	
 }
