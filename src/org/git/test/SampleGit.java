@@ -5,13 +5,13 @@ public class SampleGit {
 		System.out.println("employee name");
 
 	}
-	private void hlo() {
-		System.out.println("emlyoees contact");
-
-	}
+	
 	private void loe() {
 		System.out.println("employee pppoiii");
 
 	}
-	
+	private void hlo() {
+		System.out.println("emlyoees contact");
+
+	}
 }
